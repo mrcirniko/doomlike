@@ -4,7 +4,7 @@
 **Движок:** Unity 6.3 LTS · Universal Render Pipeline    
 
 ---
-[![Геймплей](https://img.youtube.com/vi/AXhuGbIT8YM/0.jpg)](https://www.youtube.com/watch?v=AXhuGbIT8YM)
+[![Геймплей](https://img.youtube.com/vi/zUHKn5zqzaU/0.jpg)](https://youtu.be/zUHKn5zqzaU)
 ![скрин1](/screenshot3.png)
 ![скрин1](/screenshot.png)
 
