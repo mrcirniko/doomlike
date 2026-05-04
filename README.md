@@ -14,7 +14,7 @@
 
 Цель проекта — реализовать полный цикл разработки игры: архитектуру кода, геймплейные системы, искусственный интеллект противников, VFX, UI и звук.  
 
-На данный момент доступна версия игры для [Windows 10 x64](https://github.com/mrcirniko/doomlike/releases/download/0.1.0/doomlike-windows10-x64.rar).
+На данный момент доступна версия игры для [Windows 10 x64](https://github.com/mrcirniko/doomlike/releases/download/0.1.0001/doomlike-windows10-x64.rar).
 
 ---
 
