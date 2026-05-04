@@ -1,9 +1,11 @@
 # Doomlike
 Семестровый проект по курсу "Разработка игр" 2026, МАИ  
 **Автор:** Цирулев Николай, группа М8О-408Б-22  
-**Движок:** Unity 6.0 LTS · Universal Render Pipeline    
+**Движок:** Unity 6.3 LTS · Universal Render Pipeline    
 
 ---
+[![Геймплей](https://img.youtube.com/vi/AXhuGbIT8YM/0.jpg)](https://www.youtube.com/watch?v=AXhuGbIT8YM)
+
 
 ## 1. Описание проекта
 
