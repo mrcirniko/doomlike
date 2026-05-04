@@ -5,8 +5,8 @@
 
 ---
 [![Геймплей](https://img.youtube.com/vi/AXhuGbIT8YM/0.jpg)](https://www.youtube.com/watch?v=AXhuGbIT8YM)
-![скрин1](/Doomlike/screenshot3.png)
-![скрин1](/Doomlike/screenshot.png)
+![скрин1](/screenshot3.png)
+![скрин1](/screenshot.png)
 
 ## 1. Описание проекта
 
